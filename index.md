@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Example Page
 
-I'm glad you are here. I plan to talk about ...
+Stuff will go here.
